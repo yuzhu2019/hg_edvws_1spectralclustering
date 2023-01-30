@@ -2,7 +2,7 @@
 
 The code for the paper "Hypergraphs with Edge-Dependent Vertex Weights: p-Laplacians and Spectral Clustering" by Yu Zhu and Santiago Segarra.
 
-The proposed algorithm (Algorithm 2 in our paper) is implemented in the following two files:
+The proposed algorithm (Algorithm 2 in our paper) is implemented in the following two files (under the folder 'matlab'):
 
 (1) reducible_hypergraph_partition.cpp       --  The inner problem is solved via FISTA (see Algorithm 3 in our paper)
 
