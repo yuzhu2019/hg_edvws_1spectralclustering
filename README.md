@@ -6,4 +6,8 @@ The proposed algorithm (Algorithm 2 in our paper) is implemented in the followin
 
 (1) reducible_hypergraph_partition.cpp       --  The inner problem is solved via FISTA (see Algorithm 3 in our paper)
 
-(2) reducible_hypergraph_partition_pdhg.cpp  --  The inner problem is solved via PDHG  (see Algorithm 4 in our paper)
+    Examples of using it can be found in test_covtype.m and test_rcv1.m
+
+(2) reducible_hypergraph_partition_pdhg.cpp  --  The inner problem is solved via PDHG  (see Algorithm 4 in our paper) 
+
+    Examples of using it can be found in test_covtype_pdhg.m and test_rcv1_pdhg.m
